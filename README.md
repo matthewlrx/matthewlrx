@@ -39,17 +39,10 @@ I am a data-driven operations executive specializing in large-scale, multi-regio
 
 ## 📊 GitHub Performance Insights
 
-<!-- Dynamic GitHub Metrics Alignment -->
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthewlrx&theme=dark" alt="GitHub Streak" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=matthewlrx&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthewlrx&theme=dark" alt="GitHub Streak" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matthewlrx&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="195" />
+</p>
 
 ---
 
