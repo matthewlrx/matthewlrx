@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matthew Le Roux
 
-### Operations & Workforce Management Leader | Home Lab Enthusiast
+### Operations & Workforce Management Leader | Home Lab Enthusiast | AI Savvy 🤖
 
 I am a data-driven operations executive specializing in large-scale, multi-region service delivery and workforce optimization. By day, I design capacity planning strategies and drive high-accountability performance structures across global footprints. By night, I channel that same passion for efficiency into my home server ecosystem, building automated workflows and custom data pipelines.
 
@@ -26,6 +26,7 @@ I am a data-driven operations executive specializing in large-scale, multi-regio
 ![VBA](https://img.shields.io/badge/VBA-%23121011.svg?style=for-the-badge&logo=microsoft-excel&logoColor=7FFF00)
 
 ### 🌐 Home Server & Automation Engineering
+![AI Savvy](https://img.shields.io/badge/AI_Savvy-🤖-6f42c1?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,9 +40,7 @@ I am a data-driven operations executive specializing in large-scale, multi-regio
 
 ## 📊 GitHub Performance Insights
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthewlrx&theme=dark" height="195" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=matthewlrx&theme=dark)
 
 ---
 
