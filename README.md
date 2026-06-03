@@ -40,7 +40,7 @@ I am a data-driven operations executive specializing in large-scale, multi-regio
 
 ## 📊 GitHub Performance Insights
 
-![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthewlrx&show_icons=true&theme=dark)
+![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthewlrx&show_icons=true&theme=dark&v=2)
 
 ---
 
